@@ -6,8 +6,11 @@
 -   The algorithm can be optimized by wisely choosing the pivot. For example if the pivot is either the largest or smallest value in the array, the values inside 2 sub-arrays will be heavily unbalanced
 
 ## Time Complexity : nlog(n)
+
 n           :       finding the correct position for the <pivot>
+
 log(n)      :       partitioning or diving the array into sub_arrays
+
 
 ## Implementation
 
